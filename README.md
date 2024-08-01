@@ -5,3 +5,6 @@ In this project, I developed a ray tracer to understand ray tracing principles a
 
 Achieved full points.
 
+Example output, 4 spheres with shadows:
+
+![example3](https://github.com/user-attachments/assets/6f5e8f96-2529-42bb-b4da-df8346d51f3c)
